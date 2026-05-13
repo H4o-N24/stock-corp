@@ -1,30 +1,20 @@
-# stock_corp — 投資テーマ・銘柄情報
+# stock_corp
 
-分野別に整理した株式・投資テーマの調査ノート。都度更新。
+**→ まず [REPORT.md](REPORT.md) を見てください（最新レポート）**
 
-**対象市場：** 東証プライム、NASDAQ、NYSE
-**投資手段：** 個別株、投資信託、ETF（NISA口座中心）
+---
 
-## ディレクトリ構成
+## ファイル構成（参照用）
 
-| フォルダ | 内容 |
-|----------|------|
-| `SBG/` | ソフトバンクグループ関連の投資テーマ・戦略 |
-| `semiconductor/` | 半導体関連銘柄・業界動向 |
-| `physical_ai/` | フィジカルAI・ロボティクス関連銘柄 |
-| `kokusaku/` | 国策関連銘柄（防衛・半導体・DX・宇宙・エネルギー等） |
-| `nisa/` | NISA口座構成・積み立て設定・投資信託比較 |
-| `updates/` | 日付別の更新ログ（新着情報・価格メモ） |
-
-## クイックアクセス
-
-- [NISA ポートフォリオ（最新）](nisa/portfolio.md)
-- [積み立て設定ガイド](nisa/tsumitate.md)
-- [国策銘柄一覧](kokusaku/overview.md)
-- [SBG投資テーマ](SBG/investment_theme.md)
-
-## 更新履歴
-
-| 日付 | 内容 |
-|------|------|
-| 2026-05-13 | 初期作成。SBGテーマ・国策銘柄・NISA構成を追加 |
+| フォルダ/ファイル | 内容 |
+|----------------|------|
+| **REPORT.md** | **メインレポート（これだけ見ればOK）** |
+| `nisa/current_portfolio.md` | 保有銘柄の詳細データ |
+| `nisa/dividend_yuutai.md` | 配当・優待の管理表 |
+| `nisa/portfolio.md` | NISA推奨構成（理想形） |
+| `nisa/tsumitate.md` | 積み立てファンド比較 |
+| `kokusaku/overview.md` | 国策銘柄テーマ別一覧 |
+| `SBG/investment_theme.md` | SBG投資テーマ |
+| `semiconductor/overview.md` | 半導体銘柄 |
+| `physical_ai/overview.md` | フィジカルAI・ロボット銘柄 |
+| `updates/YYYY-MM-DD.md` | 日付別の更新ログ |
