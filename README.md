@@ -13,8 +13,15 @@
 | `nisa/dividend_yuutai.md` | 配当・優待の管理表 |
 | `nisa/portfolio.md` | NISA推奨構成（理想形） |
 | `nisa/tsumitate.md` | 積み立てファンド比較 |
+| `nisa/current_portfolio.md` | 保有銘柄の詳細データ |
+| `nisa/dividend_yuutai.md` | 配当・優待の管理表 |
+| `nisa/portfolio.md` | NISA推奨構成（理想形） |
+| `nisa/tsumitate.md` | 積み立てファンド比較 |
 | `kokusaku/overview.md` | 国策銘柄テーマ別一覧 |
 | `SBG/investment_theme.md` | SBG投資テーマ |
 | `semiconductor/overview.md` | 半導体銘柄 |
 | `physical_ai/overview.md` | フィジカルAI・ロボット銘柄 |
+| `market_movers/japan_market.md` | 日本市場に影響する銘柄・要因 |
+| `market_movers/global_market.md` | 世界市場に影響する銘柄・指標 |
+| `influential_investors/overview.md` | 著名投資家・機関の動向 |
 | `updates/YYYY-MM-DD.md` | 日付別の更新ログ |
