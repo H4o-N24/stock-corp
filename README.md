@@ -22,6 +22,7 @@
 | `semiconductor/overview.md` | 半導体銘柄 |
 | `physical_ai/overview.md` | フィジカルAI・ロボット銘柄 |
 | `themes/overview.md` | 注目テーマ8分野（AIインフラ・サイバー・ヘルスケア等） |
+| `themes/tenbagger.md` | テンバガー候補銘柄（米国・日本） |
 | `market_movers/japan_market.md` | 日本市場に影響する銘柄・要因 |
 | `market_movers/global_market.md` | 世界市場に影響する銘柄・指標 |
 | `influential_investors/overview.md` | 著名投資家・機関の動向 |
