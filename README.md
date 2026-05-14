@@ -4,26 +4,26 @@
 
 ---
 
-## ファイル構成（参照用）
+## ファイル構成
 
 | フォルダ/ファイル | 内容 |
 |----------------|------|
-| **REPORT.md** | **メインレポート（これだけ見ればOK）** |
-| `nisa/current_portfolio.md` | 保有銘柄の詳細データ |
-| `nisa/dividend_yuutai.md` | 配当・優待の管理表 |
-| `nisa/portfolio.md` | NISA推奨構成（理想形） |
-| `nisa/tsumitate.md` | 積み立てファンド比較 |
-| `nisa/current_portfolio.md` | 保有銘柄の詳細データ |
-| `nisa/dividend_yuutai.md` | 配当・優待の管理表 |
-| `nisa/portfolio.md` | NISA推奨構成（理想形） |
-| `nisa/tsumitate.md` | 積み立てファンド比較 |
-| `kokusaku/overview.md` | 国策銘柄テーマ別一覧 |
-| `SBG/investment_theme.md` | SBG投資テーマ |
-| `semiconductor/overview.md` | 半導体銘柄 |
-| `physical_ai/overview.md` | フィジカルAI・ロボット銘柄 |
-| `themes/overview.md` | 注目テーマ8分野（AIインフラ・サイバー・ヘルスケア等） |
-| `themes/tenbagger.md` | テンバガー候補銘柄（米国・日本） |
-| `market_movers/japan_market.md` | 日本市場に影響する銘柄・要因 |
-| `market_movers/global_market.md` | 世界市場に影響する銘柄・指標 |
-| `influential_investors/overview.md` | 著名投資家・機関の動向 |
+| **REPORT.md** | **メインレポート（総合サマリー）** |
+| `holdings/holdings_YYYY-MM-DD.csv` | 楽天証券エクスポートCSV（保有状況・最新データ） |
+| `earnings/YYYY-MM_kessan_matome.md` | 決算まとめ（財務数値） |
+| `earnings/YYYY-MM_growth_strategy.md` | 成長戦略・注力領域分析 |
+| `nisa/portfolio.md` | NISA口座の戦略・枠の使い方 |
+| `nisa/tsumitate.md` | つみたて投資枠ファンド設定 |
+| `nisa/dividend_yuutai.md` | 配当・優待まとめ |
+| `themes/overview.md` | 投資テーマ一覧インデックス |
+| `themes/physical_ai.md` | フィジカルAI・ロボティクス |
+| `themes/semiconductor.md` | 半導体関連銘柄 |
+| `themes/defense_space.md` | 宇宙・防衛 |
+| `themes/ai_infrastructure.md` | AIインフラ（DC・電線・電力） |
+| `themes/kokusaku.md` | 国策関連銘柄 |
+| `themes/SBG.md` | SoftBankGroup投資テーマ |
+| `themes/tenbagger.md` | テンバガー候補銘柄 |
+| `market_movers/japan_market.md` | 日本市場の動向 |
+| `market_movers/global_market.md` | 世界市場の動向 |
+| `market_movers/influential_investors.md` | 著名投資家・機関の動向 |
 | `updates/YYYY-MM-DD.md` | 日付別の更新ログ |
