@@ -1,6 +1,20 @@
 # 注目テーマ・分野 一覧
 
-最終更新：2026-05-13
+最終更新：2026-05-14
+
+---
+
+## 専用ファイルのあるテーマ（詳細はリンク先へ）
+
+| テーマ | ファイル | 最終更新 |
+|--------|---------|---------|
+| 半導体（TSMC・ASML・NVIDIA・Rapidus） | [semiconductor.md](semiconductor.md) | 2026-05-14 |
+| SoftBankGroup（ARM・OpenAI・Stargate） | [SBG.md](SBG.md) | 2026-05-14 |
+| フィジカルAI（FANUC・安川・ヒューマノイド） | [physical_ai.md](physical_ai.md) | 2026-05-14 |
+| 宇宙・防衛（三菱重工・川崎重工・Lockheed） | [defense_space.md](defense_space.md) | 2026-05-14 |
+| AIインフラ（DC・電線・電力） | [ai_infrastructure.md](ai_infrastructure.md) | 2026-05-14 |
+| 国策関連（Rapidus・量子・原発・防衛） | [kokusaku.md](kokusaku.md) | 2026-05-14 |
+| テンバガー候補 | [tenbagger.md](tenbagger.md) | 2026-05-14 |
 
 ---
 
@@ -181,4 +195,5 @@ AI電力需要の拡大と合わせて「新時代の石油」と称されるこ
 
 | 日付 | 内容 |
 |------|------|
+| 2026-05-14 | 専用ファイルインデックス追加（semiconductor・SBG・physical_ai・defense_space・ai_infrastructure・kokusaku・tenbagger） |
 | 2026-05-13 | 初期作成。8テーマを整理 |
